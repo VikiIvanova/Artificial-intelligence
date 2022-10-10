@@ -1,2 +1,2 @@
 # Artificial-intelligence
-Artificial-intelligence sscripts in the FMI course
+Artificial-intelligence scripts in the FMI course
